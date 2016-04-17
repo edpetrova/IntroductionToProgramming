@@ -1,0 +1,5 @@
+c:\users\kaktys\documents\visual studio 2015\Projects\IntroductionToProgramming\SquareRoot\bin\Debug\SquareRoot.exe.config
+C:\Users\Kaktys\Documents\Visual Studio 2015\Projects\IntroductionToProgramming\SquareRoot\bin\Debug\SquareRoot.exe
+C:\Users\Kaktys\Documents\Visual Studio 2015\Projects\IntroductionToProgramming\SquareRoot\bin\Debug\SquareRoot.pdb
+C:\Users\Kaktys\Documents\Visual Studio 2015\Projects\IntroductionToProgramming\SquareRoot\obj\Debug\SquareRoot.exe
+C:\Users\Kaktys\Documents\Visual Studio 2015\Projects\IntroductionToProgramming\SquareRoot\obj\Debug\SquareRoot.pdb

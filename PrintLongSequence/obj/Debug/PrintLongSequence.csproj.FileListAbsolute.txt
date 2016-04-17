@@ -1,0 +1,5 @@
+C:\Users\Kaktys\Documents\Visual Studio 2015\Projects\IntroductionToProgramming\PrintLongSequence\bin\Debug\PrintLongSequence.exe.config
+C:\Users\Kaktys\Documents\Visual Studio 2015\Projects\IntroductionToProgramming\PrintLongSequence\bin\Debug\PrintLongSequence.exe
+C:\Users\Kaktys\Documents\Visual Studio 2015\Projects\IntroductionToProgramming\PrintLongSequence\bin\Debug\PrintLongSequence.pdb
+C:\Users\Kaktys\Documents\Visual Studio 2015\Projects\IntroductionToProgramming\PrintLongSequence\obj\Debug\PrintLongSequence.exe
+C:\Users\Kaktys\Documents\Visual Studio 2015\Projects\IntroductionToProgramming\PrintLongSequence\obj\Debug\PrintLongSequence.pdb

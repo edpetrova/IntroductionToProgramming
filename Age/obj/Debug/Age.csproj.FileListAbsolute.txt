@@ -1,0 +1,5 @@
+C:\Users\Kaktys\Documents\Visual Studio 2015\Projects\IntroductionToProgramming\Age\bin\Debug\Age.exe.config
+C:\Users\Kaktys\Documents\Visual Studio 2015\Projects\IntroductionToProgramming\Age\bin\Debug\Age.exe
+C:\Users\Kaktys\Documents\Visual Studio 2015\Projects\IntroductionToProgramming\Age\bin\Debug\Age.pdb
+C:\Users\Kaktys\Documents\Visual Studio 2015\Projects\IntroductionToProgramming\Age\obj\Debug\Age.exe
+C:\Users\Kaktys\Documents\Visual Studio 2015\Projects\IntroductionToProgramming\Age\obj\Debug\Age.pdb

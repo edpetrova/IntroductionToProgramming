@@ -1,0 +1,5 @@
+c:\users\kaktys\documents\visual studio 2015\Projects\IntroductionToProgramming\PrintMyName\bin\Debug\PrintMyName.exe.config
+c:\users\kaktys\documents\visual studio 2015\Projects\IntroductionToProgramming\PrintMyName\bin\Debug\PrintMyName.exe
+c:\users\kaktys\documents\visual studio 2015\Projects\IntroductionToProgramming\PrintMyName\bin\Debug\PrintMyName.pdb
+c:\users\kaktys\documents\visual studio 2015\Projects\IntroductionToProgramming\PrintMyName\obj\Debug\PrintMyName.exe
+c:\users\kaktys\documents\visual studio 2015\Projects\IntroductionToProgramming\PrintMyName\obj\Debug\PrintMyName.pdb
